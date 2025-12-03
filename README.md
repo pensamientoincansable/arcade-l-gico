@@ -1,1 +1,1 @@
-# arcade-l-gico
+# arcade-lógico
